@@ -1,0 +1,26 @@
+{
+  "name": "js-array-interview-problems",
+  "version": "1.0.0",
+  "description": "Welcome to **js-array-interview-problems**, a collection of carefully designed JavaScript problems focused on mastering **arrays** — from foundational manipulation to real-world transformations using `map`, `filter`, `reduce`, and more.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navneeth-sortur/js-array-interview-problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navneeth-sortur/js-array-interview-problems/issues"
+  },
+  "homepage": "https://github.com/navneeth-sortur/js-array-interview-problems#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
