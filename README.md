@@ -57,8 +57,6 @@ This repository is a continuation of the [js-string-interview-problems](https://
 
 🟢 = Easy | 🟡 = Medium | 🟠 = Moderate | 🔴 = Advanced
 
-```
-
 ## ⚙️ Tech Used
 
 - **JavaScript (ES6+)**
@@ -91,5 +89,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 🚀 Learn | Code | Master | Repeat 💪
-
-```
